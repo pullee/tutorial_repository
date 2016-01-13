@@ -7,6 +7,7 @@ int main()
 	cout << "Wow! I like it!!" << endl;
 	cout << "Fantastic!" << endl;
 	cout << "Sub1 process start" << endl;
+	cout << "processing" << endl;
 
 	return 0;
 }
